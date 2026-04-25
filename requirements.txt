@@ -1,0 +1,6 @@
+genanki
+pypdf
+openai
+pytesseract
+pdf2image
+Pillow
